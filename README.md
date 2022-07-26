@@ -24,7 +24,7 @@
 
 * `gem install lolcat`
 
-* `git clone https://github.com/Hack03/Cuban-Hacker`
+* `el git estara listo en unos 3 dias...en estos momentos el script esta en proceso de pruebas.`
 
 * `cd Cuban-Hacker`
 
@@ -51,5 +51,5 @@ NO ME HAGO RESPONSABLE DEL MAL USO QUE SE LE PUEDA DAR A DICHO SCRIPT.
 
 ## CONTACTAME EN WHATSAPP ##
 
-[![WhatsApp](https://img.shields.io/badge/whatsapp-TECH--COCHI-red?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=+5351102110)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Hack03red?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=+5351102110)
 
